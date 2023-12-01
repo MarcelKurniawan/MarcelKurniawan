@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'am a Data Enthusiast<br><br>I am passionate about data and its various aspects, especially in the areas of Data Engineering, Data Analytics, Data Science, Machine Learning, Artificial Intelligence, and Business Intelligence.
+Hi, I'am a Data Enthusiast<br><br>and passionate about data and its various aspects, especially in the areas of Data Engineering, Data Analytics, Data Science, Machine Learning, Artificial Intelligence, and Business Intelligence.
 
 
 ## 🌐 Socials:
