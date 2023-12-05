@@ -1,5 +1,5 @@
 # 💫 About Me:
-**Hi, I'am a Data Enthusiast** and passionate about data and its various aspects, especially in the areas of Data Engineering, Data Analytics, Data Science, Machine Learning, Artificial Intelligence, and Business Intelligence. In addition, I'am also interest in Automation Test and SQA
+**Hi, I'am a Data Enthusiast** and passionate about data and its various aspects, especially in the areas of Data Engineering, Data Analytics, Data Science, Machine Learning, Artificial Intelligence, and Business Intelligence. In addition, I'am also interest, explore and learn about Software Quality Assurance and Automation Testing.
 
 
 ## 🌐 Socials:
